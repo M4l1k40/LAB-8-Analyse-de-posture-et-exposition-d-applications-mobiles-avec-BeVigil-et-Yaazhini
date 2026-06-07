@@ -1,0 +1,10 @@
+﻿=== RAPPORT BEVIGIL - DIVA ===
+Date            : 2026-05-23 12:12
+Application     : Diva | jakhar.aseem.diva (v1.0)
+Security Rating : 8.2 / 10 (Good)
+
+Issues detectees : 2
+  [MED] Non-parameterized SQL Query  - 97.1%
+  [LOW] Possible Secret Detected     - 2.9%
+
+Source : Captures ecran bevigil.com (rapport PDF non disponible - compte pro requis)

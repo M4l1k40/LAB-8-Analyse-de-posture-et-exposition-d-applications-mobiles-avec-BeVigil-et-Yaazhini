@@ -1,0 +1,10 @@
+Date: 2026-05-23
+Analyste: [Prénom Nom]
+Cible: [Nom de l'application ou du domaine]
+Artefact: [Nom du fichier APK ou liste des domaines]
+Provenance: [Enseignant / Projet de cours]
+Hash: [À remplir si APK]
+Versions outils:
+  - BeVigil: [version]
+  - Yaazhini: 1.1.0
+Environnement: Windows Windows 10 Pro

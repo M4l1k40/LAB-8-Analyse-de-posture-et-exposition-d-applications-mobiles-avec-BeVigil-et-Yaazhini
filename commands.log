@@ -1,0 +1,14 @@
+﻿# Log des commandes exécutées - 2026-05-23 11:21:53
+mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report
+Copy-Item DivaApplication.apk -> 00-scope\
+Get-FileHash SHA256 : 5CEFC51FCE9BD760B92AB2340477F4DDA84B4AE0C5D04A8C9493E4FE34FAB7C5
+Created targets.txt with authorized domains
+Created bevigil_notes.md with full analysis
+Yaazhini launched as admin - JAVA_HOME fixed to Java 8 JRE
+APK analysed: DivaApplication.apk - Project: DIVA_ok
+Yaazhini DIVA_ok scan completed - 06/07/2026 04:22:03
+Created yaazhini_notes.md with 7 documented elements
+Added Element 8 (hardcoded HTTP URL) to yaazhini_notes.md
+Created triage.csv with 12 findings (BeVigil + Yaazhini)
+Created owasp_mapping.md with 12 MASVS mappings
+Created rapport_final.md - final security report
